@@ -155,6 +155,6 @@ El objetivo de este notebook es identificar los factores que más influyen en la
 ---
 
 **Autor:**  
-Omar  
+Omar Angel
 Challenge2 - TelecomX LATAM  
 2025
